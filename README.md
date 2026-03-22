@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Vishwa Geethanjana</h1>
-<h3 align="center">Backend Engineer | AI Enthusiast | System Design Learner</h3>
+<h3 align="center">Backend Engineer | GenAI Enthusiast</h3>
 
 ---
 
 ## 🧠 About Me
 
 - 🔭 Currently building **AI-powered backend systems** and scalable web applications  
-- 💡 Strong focus on **FastAPI, system architecture, and clean backend design**  
-- 🚀 Interested in **AI integration, automation, and production-grade systems**  
-- 🤝 Open to collaborating on **backend-heavy & AI-driven projects**  
-- 🎯 Goal: Become a **high-level Backend Engineer / System Architect**
+- 💡 Focused on **FastAPI, clean backend design, and API development**  
+- 🤖 Interested in **Generative AI, automation, and real-world AI applications**  
+- 🤝 Open to collaborating on **backend and AI-driven projects**  
+- 🎯 Goal: Grow into a **strong Backend Engineer with AI expertise**
 
 ---
 
@@ -17,8 +17,8 @@
 
 ### 💻 Backend & Core
 - Python (FastAPI, SQLAlchemy)
-- Java (OOP & backend fundamentals)
-- REST API Design & Microservices
+- Java (OOP fundamentals)
+- REST API Design
 
 ### 🌐 Frontend
 - React.js
@@ -29,33 +29,43 @@
 - MySQL
 - Microsoft SQL Server
 
-### ☁️ DevOps & Tools
-- Docker
+### ☁️ Tools & DevOps
+- Docker (Basics)
 - AWS (Basics)
 - Postman & Swagger
 - Git & GitHub
 
 ### 🤖 AI & Automation
-- OpenAI API Integration
+- OpenAI API (GenAI)
+- Prompt Engineering
 - Selenium Automation
-- Streamlit (AI dashboards)
+- Streamlit
 
 ---
 
-## 🏆 Featured Project
+## 🚀 Featured Projects
 
-### 🐾 PETCARE System
+### 🧠 ICT AI Bias Engine  
+AI-powered system that analyzes trading charts and generates structured market bias.
+
+- Multi-timeframe analysis (D → 15m)  
+- AI Vision + Prompt Engineering  
+- Extracts liquidity, structure, and bias  
+- FastAPI + PostgreSQL  
+
+---
+
+### 🐾 PETCARE System  
 **Animal Welfare & Clinic Management Platform**
 
 🔗 https://github.com/DinalSanjula/PETCARE
 
 **Key Contributions:**
-- Built secure backend using **FastAPI + JWT Authentication**
+- Built backend using **FastAPI + JWT Authentication**
 - Implemented **Role-Based Access Control (RBAC)**
-- Designed scalable **database models with SQLAlchemy**
-- Developed **OTP-based authentication system**
-- Integrated external APIs (OpenCage, Email Services)
-- Built **secure reporting & analytics endpoints**
+- Designed database models with SQLAlchemy
+- Developed OTP-based authentication
+- Integrated external APIs (OpenCage, Email)
 
 ---
 
@@ -70,9 +80,9 @@
 
 ## 🌱 Currently Learning
 
-- Advanced System Design (Scalability, Caching, Queues)
-- AI Engineering (LLMs, RAG, Agents)
-- Production Deployment (Docker + Cloud)
+- Generative AI (LLMs, RAG basics)
+- Backend best practices
+- API performance & optimization
 
 ---
 
@@ -88,4 +98,4 @@
 
 ## ⚡ Mindset
 
-> “I focus on building systems that are scalable, structured, and production-ready.”
+> I focus on building practical systems and improving step by step.
