@@ -1,41 +1,61 @@
-<h1 align="center">Vishwa Geethanjana</h1>
-<h3 align="center">AI Backend Engineer • System Design</h3>
-
-<p align="center">
-I build AI-powered backend systems and scalable applications.
-</p>
+<h1 align="center">Hi 👋, I'm Vishwa Geethanjana</h1>
+<h3 align="center">Backend Engineer | AI Enthusiast | System Design Learner</h3>
 
 ---
 
-## 🚀 Featured Projects
+## 🧠 About Me
 
-### 🧠 ICT AI Bias Engine
-AI system that analyzes trading charts and generates structured market bias using ICT concepts.
-
-- Multi-timeframe analysis (D → 15m)
-- AI Vision + Prompt Engineering
-- Outputs structured bias (liquidity, structure, direction)
-- FastAPI + PostgreSQL + Docker
-
----
-
-### 🐾 PETCARE System  
-Clinic & Animal Welfare Management Platform  
-
-- FastAPI backend with JWT auth  
-- Role-Based Access Control (RBAC)  
-- OTP authentication & API integrations  
-- Scalable DB design with SQLAlchemy  
+- 🔭 Currently building **AI-powered backend systems** and scalable web applications  
+- 💡 Strong focus on **FastAPI, system architecture, and clean backend design**  
+- 🚀 Interested in **AI integration, automation, and production-grade systems**  
+- 🤝 Open to collaborating on **backend-heavy & AI-driven projects**  
+- 🎯 Goal: Become a **high-level Backend Engineer / System Architect**
 
 ---
 
 ## ⚙️ Tech Stack
 
-**Backend:** Python, FastAPI, SQLAlchemy  
-**Frontend:** React, HTML, CSS  
-**Database:** PostgreSQL, MySQL  
-**Tools:** Docker, AWS, Postman, Git  
-**AI:** OpenAI API, Automation  
+### 💻 Backend & Core
+- Python (FastAPI, SQLAlchemy)
+- Java (OOP & backend fundamentals)
+- REST API Design & Microservices
+
+### 🌐 Frontend
+- React.js
+- HTML, CSS, Bootstrap
+
+### 🗄️ Databases
+- PostgreSQL
+- MySQL
+- Microsoft SQL Server
+
+### ☁️ DevOps & Tools
+- Docker
+- AWS (Basics)
+- Postman & Swagger
+- Git & GitHub
+
+### 🤖 AI & Automation
+- OpenAI API Integration
+- Selenium Automation
+- Streamlit (AI dashboards)
+
+---
+
+## 🏆 Featured Project
+
+### 🐾 PETCARE System
+**Animal Welfare & Clinic Management Platform**
+
+🔗 https://github.com/DinalSanjula/PETCARE
+
+**Key Contributions:**
+- Built secure backend using **FastAPI + JWT Authentication**
+- Implemented **Role-Based Access Control (RBAC)**
+- Designed scalable **database models with SQLAlchemy**
+- Developed **OTP-based authentication system**
+- Integrated external APIs (OpenCage, Email Services)
+- Built **secure reporting & analytics endpoints**
 
 ---
 
@@ -43,18 +63,29 @@ Clinic & Animal Welfare Management Platform
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=geeth-67&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=geeth-67&theme=tokyonight" />
 </p>
 
 ---
 
-## 🧠 Mindset
+## 🌱 Currently Learning
 
-> I design systems before writing code.
+- Advanced System Design (Scalability, Caching, Queues)
+- AI Engineering (LLMs, RAG, Agents)
+- Production Deployment (Docker + Cloud)
 
 ---
 
-## 📫 Connect
+## 📫 Connect With Me
 
-<a href="https://linkedin.com/in/vishwa-geethanjana">
+<p align="left">
+<a href="https://linkedin.com/in/vishwa-geethanjana" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
+</p>
+
+---
+
+## ⚡ Mindset
+
+> “I focus on building systems that are scalable, structured, and production-ready.”
