@@ -58,8 +58,6 @@ AI-powered system that analyzes trading charts and generates structured market b
 ### 🐾 PETCARE System  
 **Animal Welfare & Clinic Management Platform**
 
-🔗 https://github.com/DinalSanjula/PETCARE
-
 **Key Contributions:**
 - Built backend using **FastAPI + JWT Authentication**
 - Implemented **Role-Based Access Control (RBAC)**
