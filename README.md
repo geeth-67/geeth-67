@@ -29,11 +29,14 @@ I enjoy turning ideas into real systems — from **database design → backend �
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,java,javascript,postgres,mysql,docker,aws,git,github,linux,flutter,react" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,java,javascript,angular,postgres,mysql,docker,aws,git,github,flutter" />
 </p>
 
 ### Backend
 `FastAPI` `SQLAlchemy` `Pydantic` `REST APIs` `JWT` `RBAC` `Microservices`
+
+### Frontend
+`Angular` `HTML` `Bootstrap` `CSS`
 
 ### AI / GenAI
 `OpenAI API` `LLMs` `RAG` `Embeddings` `Vector Databases` `LangChain` `LangGraph` `AI Vision`
