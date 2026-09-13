@@ -29,7 +29,7 @@ I enjoy turning ideas into real systems — from **database design → backend �
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,java,javascript,angular,postgres,mysql,docker,aws,git,github,flutter" />
+  <img src="https://skillicons.dev/icons?i=flutter,python,fastapi,java,javascript,angular,postgres,mysql,docker,aws,git,github" />
 </p>
 
 ### Backend
