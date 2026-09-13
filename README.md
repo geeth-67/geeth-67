@@ -50,30 +50,6 @@ My focus is not only using AI APIs, but learning how to build **reliable AI-powe
 
 ---
 
-## 📚 Currently Learning
-
-**Backend**
-- Advanced FastAPI
-- System Design
-- Database Optimization
-- Microservices
-- Docker & CI/CD
-
-**AI**
-- LLM Architecture
-- RAG Pipelines
-- Vector Databases
-- AI Agents
-- AI Evaluation
-
-**Software Engineering**
-- Clean Architecture
-- Design Patterns
-- SOLID
-- Distributed Systems
-
----
-
 ## 📊 GitHub
 
 <p align="center">
